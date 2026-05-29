@@ -1,5 +1,5 @@
 <template>
     <div>
-        class1
+        git push -u origin dev
     </div>
 </template>
